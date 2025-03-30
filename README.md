@@ -45,7 +45,10 @@
 The **contact form** in this project is powered by [Formspree](https://formspree.io/), making it easy to handle submissions without backend development.
 
 ---
-
+## ⚡ **Challenges Faced**
+- Making the UI fully **responsive** for all screen sizes  
+- Handling **cross-browser compatibility** issues  
+- **Optimizing animations** for smooth user experience
 ## 🎯 How to Run Locally  
 
 1. Clone this repository:  
